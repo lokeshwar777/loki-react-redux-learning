@@ -13,12 +13,19 @@ loki-react/
 │       ├── src/
 │       ├── README.md
 │       └── ...
+├── components/
+│   └── React Props and Tailwind CSS/
+│       ├── src/
+│       ├── README.md
+│       └── ...
 ```
 
 ## Projects
 
 1. **Hooks Concept:**
    - [React Counter Using Hooks](loki-react/hooks/React%20Counter%20Using%20Hooks/): A project showcasing the implementation of React hooks.
+2. **Components Concept:**
+   - [React Props and Tailwind CSS](loki-react/components/React%20Props%20and%20Tailwind%20CSS): A project demonstrating the use of React props and Tailwind CSS.
 
 ## Getting Started
 

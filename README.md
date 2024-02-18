@@ -9,7 +9,11 @@ The repository is organized by React concepts, with each concept having its own 
 ```
 loki-react/
 ├── hooks/
-│   └── React Counter Using Hooks/
+│   ├── React Counter Using Hooks/
+│   │   ├── src/
+│   │   ├── README.md
+│   │   └── ...
+│   └── React Magic Color Changer/
 │       ├── src/
 │       ├── README.md
 │       └── ...
@@ -23,13 +27,20 @@ loki-react/
 ## Projects
 
 1. **Hooks Concept:**
-   - [React Counter Using Hooks](loki-react/hooks/React%20Counter%20Using%20Hooks/): A project showcasing the implementation of React hooks.
+
+   - [React Counter Using Hooks](hooks/React%20Counter%20Using%20Hooks/): A project showcasing the implementation of React hooks.
+   - [React Magic Color Changer](hooks/React%20Magic%20Color%20Changer/): A project featuring a background color changer using React's state management.
+
 2. **Components Concept:**
-   - [React Props and Tailwind CSS](loki-react/components/React%20Props%20and%20Tailwind%20CSS): A project demonstrating the use of React props and Tailwind CSS.
+   - [React Props and Tailwind CSS](components/React%20Props%20and%20Tailwind%20CSS): A project demonstrating the use of React props and Tailwind CSS.
 
 ## Getting Started
 
 For each project, refer to the respective README.md file for detailed instructions on how to run and explore the project locally.
+
+## Credits
+
+Projects inspired by the "Chai aur react" Playlist from [Chai aur Code](https://www.youtube.com/@chaiaurcode).
 
 ## License
 

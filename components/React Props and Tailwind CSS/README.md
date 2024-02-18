@@ -1,4 +1,4 @@
-# Tailwind Test React Project with Vite
+# React Props and Tailwind CSS
 
 Welcome to my Tailwind CSS and React project built with Vite! This project explores the integration of Tailwind CSS styles and React components using the Vite build tool.
 
@@ -7,17 +7,6 @@ Welcome to my Tailwind CSS and React project built with Vite! This project explo
 This project includes a simple React component (`Card`) that showcases the usage of Tailwind CSS for styling. The `Card` component code has been adapted from the [DevUI Components](https://www.devui.io/components/cards) library, with due credit to the original source.
 
 Additionally, the main `App` component demonstrates the integration of props in React.
-
-## Getting Started
-
-Follow these steps to get the project up and running on your local machine:
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
-   ```
 
 ## Getting Started
 

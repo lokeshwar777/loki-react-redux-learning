@@ -1,16 +1,14 @@
 import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
 import Card from './components/Card'
 
 function App() {
   const [count, setCount] = useState(0)
   let propObject = {
-    key1 : "value1",
-    key2 : "value2"
+    key1: 'value1',
+    key2: 'value2'
   }
-  let propArray = [1,2,3,4,5]
+  let propArray = [1, 2, 3, 4, 5]
 
   return (
     <>
@@ -18,9 +16,9 @@ function App() {
         Tailwind test
       </h1>
       {/* <Card channel="Object Value" objProp = {propObject} arrProp={propArray} username = "thor"/> */}
-      <Card/>
-      <Card username="Thor" knownAs="God of Thunder"/>
-      <Card username="Hela" knownAs="God of Death"/>
+      <Card />
+      <Card username="Thor" knownAs="God of Thunder" />
+      <Card username="Hela" knownAs="God of Death" />
     </>
   )
 }

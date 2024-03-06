@@ -3,7 +3,7 @@ import React from 'react'
 function Card({ username = 'Macbook', knownAs = 'Read' }) {
   // console.log("props", props)
   // console.log("username is ", props.username)
-  console.log(username)
+  // console.log(username)
   return (
     <div className="w-[300px] rounded-md border m-20">
       <img

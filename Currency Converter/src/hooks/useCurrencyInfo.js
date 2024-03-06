@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import React, { useState, useEffect } from 'react';
 
 function userCurrencyInfo(currency) {
     const [data, setData] = useState({})
@@ -7,7 +7,6 @@ function userCurrencyInfo(currency) {
             .then((res) => res.json())
             .then((res) => {
                 setData(res[currency])
-                console.log(data)
             })
     }, [currency])
     return data

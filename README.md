@@ -26,7 +26,6 @@ Welcome to my repository of React projects! Each project in this repository is d
 
 For each project, refer to the respective README.md file for detailed instructions on how to run and explore the project locally.
 
-
 ## Contribute to the Project
 
 This project is open for contributions, and your input is highly valued. If you encounter any issues or have ideas for improvements, please feel free to contribute. Follow the steps below to get started:
@@ -36,8 +35,8 @@ This project is open for contributions, and your input is highly valued. If you 
 2. Clone the forked repository to your local machine:
 
 ```
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/your-username/loki-react.git
+cd loki-react
 ```
 
 3. Create a new branch for your contribution:
@@ -64,7 +63,6 @@ git push origin feature/your-feature
 ## Issues
 
 If you come across any issues or have suggestions, please [create an issue](https://github.com/lokeshwar777/loki-react/issues).
-
 
 ## Credits
 
